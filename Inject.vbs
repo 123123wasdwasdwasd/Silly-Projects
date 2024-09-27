@@ -1,0 +1,1 @@
+x=msgbox("You are suspected in downloading illegal documents. Your files will be deleted in 15 minutes, this is irrevirsible, if you believe we made a mistake, please contact Microsoft support on our official site.", 1+48, "Illegal activity")
